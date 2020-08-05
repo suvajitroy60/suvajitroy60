@@ -10,9 +10,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="suvajitroy60 | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+[<img align="left" alt="suvajitroy60 | Gmail" width="22px" src="https://image.flaticon.com/icons/svg/2991/2991144.svg" />][gmail]
 [<img align="left" alt="suvajitroy60 | LinkedIn" width="22px" src="https://image.flaticon.com/icons/svg/2111/2111499.svg" />][linkedin]
-[<img align="left" alt="suvajitroy60 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="suvajitroy60 | Instagram" width="22px" src="https://image.flaticon.com/icons/svg/733/733558.svg" />][instagram]
 
 
 <br />
