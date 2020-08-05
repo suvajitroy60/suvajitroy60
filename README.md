@@ -20,8 +20,8 @@
 
 
 [instagram]: https://www.instagram.com/?hl=en
-[linkedin]: www.linkedin.com/in/suvajitroy60
-[gmail]: suvajitroy60@gmail.com
+[linkedin]: https://www.linkedin.com/in/suvajitroy60
+[gmail]: https://suvajitroy60@gmail.com
 <!--
 **suvajitroy60/suvajitroy60** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ---
